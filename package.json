@@ -1,6 +1,6 @@
 {
   "name": "ufo-data-scientist",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A data visualization experiment",
   "main": "server.js",
   "scripts": {
@@ -22,11 +22,11 @@
     "react-dragula": "^1.1.17",
     "rgb-hex": "^2.1.0",
     "uuid": "^3.3.2",
-    "webpack": "4.19.x",
-    "webpack-cli": "^2.0.12"
+    "webpack": "^4.29.2",
+    "webpack-cli": "^3.3.0"
   },
   "engines": {
-    "node": "8.x"
+    "node": "10.x"
   },
   "jest": {
     "setupFilesAfterEnv": [],
